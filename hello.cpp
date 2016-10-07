@@ -4,5 +4,6 @@
 int main(){
 	using namespace std;
 	double d = 2*GRAVITY;
+  cout << "piss off\n";
 	cout << d << endl;
 }
